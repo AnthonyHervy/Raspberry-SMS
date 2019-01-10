@@ -16,7 +16,7 @@ Dongle 3G :
 
 + Carte micro-SD pour le Raspberry (16 go ?)
 + Chargeur Raspberry pi 
-+ Carte Sim (pour des tests, la carte sim proposée chez Free à 2 euros/mois fait très bien l'affaire. De plus, une api est disponible pour envoyer des sms en appelant une url, lien et explications plus bas)
++ Carte Sim (pour des tests, la carte sim proposée chez Free à 2 euros/mois fait très bien l'affaire. De plus, une api est disponible si vous souhaitez envoyer des messages en invoquant une url)
 
 ## Première étape : télécharger et installer l'OS 
 
